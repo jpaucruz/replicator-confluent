@@ -1,7 +1,7 @@
 # Confluent Replicator Starter Kit
 En este repositorio se puede encontrar una PoC lista para poder empezar a trabajar con Confluent Replicator.
 
-## Requeriemientos
+## Requerimientos
 Para poder ejecutar la PoC, es necesario tener intalado Docker y Docker Compose.
 
 ## Entorno
